@@ -1,5 +1,4 @@
-# CSC3600-Project
-# 📰 Fake News Detection System Using Machine Learning
+# 📰 CSC 3600 Project - Fake News Detection System Using Machine Learning
 
 This project focuses on combating the spread of misinformation by developing an automated Fake News Detection System using advanced machine learning techniques. With the rapid rise of online content, distinguishing between factual and fabricated information has become a major challenge in the digital age.
 
